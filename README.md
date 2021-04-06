@@ -1,8 +1,6 @@
 # Hi there 👋
 
-<a href="https://www.linkedin.com/in/gautam-goyal-4440b0192/">
-  <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-Gautam Goyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/gautam-goyal-4440b0192/)
 <a href="https://github.com/Gautam-Goyal">
   <img align="left" alt=" GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
