@@ -10,7 +10,7 @@ Hello there! My name in Gautam. I am a B.tech student who wants to contribute so
 
 <p>
   <a href=" ">
-    <src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-Goyal&layout=compact&theme=highcontrast" alt="Gautam's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-Goyal&layout=compact&theme=highcontrast" alt="Gautam's github stats" />
   </a>
 </p>
 
