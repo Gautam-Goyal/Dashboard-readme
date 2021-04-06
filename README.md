@@ -10,15 +10,15 @@ Hello there! My name in Gautam. I am a B.tech student who wants to contribute so
 
 <p>
   <a href=" ">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-Goyal&layout=compact&theme=highcontrast)](https://github.com/Gautam-Goyal/github-readme-stats)
+    <src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-Goyal&layout=compact&theme=highcontrast" alt="Gautam's github stats" />
   </a>
 </p>
 
-<a href=" ">
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gautam-Goyal&repo=Flower-Image-Classifier)](https://github.com/Gautam-Goyal/Flower-Image-Classifier)
+<a href="https://github.com/Gautam-Goyal/Flower-Image-Classifier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gautam-Goyal&repo=Flower-Image-Classifier" />
 </a>
-<a href=" ">
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gautam-Goyal&repo=Flask-Image-Classifier)](https://github.com/Gautam-Goyal/Flask-Image-Classifier)
+<a href="https://github.com/Gautam-Goyal/Flask-Image-Classifier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gautam-Goyal&repo=Flask-Image-Classifier" />
 </a>
 
 <br></br>
