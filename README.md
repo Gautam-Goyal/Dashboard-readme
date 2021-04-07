@@ -6,7 +6,7 @@
 
 Hello there! My name in Gautam. I am a B.tech student whose aim is to contribute something meaningful to our community. My interests include exploring flutter framework and ML/AI.
 
-🌟 DM me to collabrate <br>
+🌟 DM me to collaborate <br>
 
 <p>
   <a href=" ">
