@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gautam_Goyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/gautam-goyal-4440b0192/)
 [![Github Badge](https://img.shields.io/badge/-@Gautam&#8208;Goyal-000000?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Gautam-Goyal)](https://github.com/Gautam-Goyal)
 [![Linkedin Badge](https://img.shields.io/badge/-gautamgoyal6335@gmail.com-FF0000?style=flat-square&logo=gmail&logoColor=white&link=mailto:gautamgoyal6335@gmail.com)](mailto:gautamgoyal6335@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-gautamgoyal6335.medium.com-FF0000?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/me/stories/public)](https://medium.com/me/stories/public)
 
 Hello there! I am a B.tech student whose aim is to contribute something meaningful to our community. My interests include exploring flutter framework and ML/AI.
 
